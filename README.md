@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhur155
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web development and Machine learning.
 - 💞️ I’m looking to collaborate on any web development project or any other open source projects.
 - 📫 How to reach me burghatemadhur@gmail.com
 
